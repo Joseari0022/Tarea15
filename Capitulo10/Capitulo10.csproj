@@ -44,7 +44,6 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Estudiantes.cs" />
-    <Compile Include="Factorial.cs" />
     <Compile Include="Inventario.cs" />
     <Compile Include="Poligono.cs" />
     <Compile Include="PoligonoPropiedad.cs" />
